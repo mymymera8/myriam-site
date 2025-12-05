@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Contact | Myriam Mera-Nemer</title>
+  <link rel="stylesheet" href="css/styles.css"/>
+</head>
+<body>
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="experience.html">Experience</a>
+  <a href="certs.html">Certifications</a>
+  <a href="contact.html" class="active">Contact</a>
+</nav>
+
+<section>
+  <h1>Let’s Connect</h1>
+  <p>Reach out for consulting, speaking, or career opportunities.</p>
+
+  <form action="https://formspree.io/f/xovavzyp" method="POST">
+    <label>Name<br><input type="text" name="name" required></label>
+    <label>Email<br><input type="email" name="_replyto" required></label>
+    <label>Message<br><textarea name="message" rows="5" required></textarea></label>
+    <button type="submit">Send Message</button>
+  </form>
+
+  <p>Or find me on <a href="https://linkedin.com/in/myriam-mera-nemer-2411688" target="_blank">LinkedIn</a>.</p>
+</section>
+
+<footer>
+  &copy; 2025 Myriam E. Mera-Nemer
+</footer>
+</body>
+</html>
