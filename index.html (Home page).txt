@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Myriam Mera-Nemer | IT Leader</title>
+  <link rel="stylesheet" href="css/styles.css"/>
+</head>
+<body>
+<nav>
+  <a href="index.html" class="active">Home</a>
+  <a href="about.html">About</a>
+  <a href="experience.html">Experience</a>
+  <a href="certs.html">Certifications</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<header>
+  <h1>Myriam E. Mera-Nemer</h1>
+  <p>IT Service Management Leader · ITIL v4 · 22+ Years Experience</p>
+</header>
+
+<section class="intro">
+  <h2>Trusted by Global Teams to Keep Critical Systems Running</h2>
+  <p>Over two decades of driving ITIL-based service management, leading 24×7 incident-response teams, and delivering 99.9 % uptime across finance, gaming, and energy sectors.</p>
+  <a href="contact.html" class="btn">Get In Touch</a>
+</section>
+
+<section class="skills">
+  <h2>Core Competencies</h2>
+  <div class="tag-list">
+    <span>ITIL v3 & v4</span>
+    <span>ServiceNow</span>
+    <span>Major Incident Management</span>
+    <span>Change Advisory Boards</span>
+    <span>Six Sigma Green/Black Belt</span>
+    <span>SOX / PCI Compliance</span>
+    <span>24×7 Global Teams</span>
+    <span>Process Automation</span>
+  </div>
+</section>
+
+<footer>
+  &copy; 2025 Myriam E. Mera-Nemer
+</footer>
+</body>
+</html>
