@@ -1,0 +1,19 @@
+/* css/styles.css */
+body{margin:0;font-family:Segoe UI,Arial,sans-serif;background:#f4f4f4;color:#333}
+nav{display:flex;gap:15px;background:#003366;padding:12px 20px}
+nav a{color:white;text-decoration:none;font-weight:bold}
+nav a.active{text-decoration:underline}
+header{background:#003366;color:white;padding:40px 20px;text-align:center}
+section{max-width:900px;margin:20px auto;padding:25px;background:white;border-radius:8px;box-shadow:0 0 8px rgba(0,0,0,.1)}
+h1{color:#003366}
+.btn{background:#003366;color:white;padding:10px 20px;border:none;border-radius:4px;text-decoration:none;display:inline-block}
+.tag-list{display:flex;flex-wrap:wrap;gap:8px}
+.tag-list span{background:#e0e0e0;padding:6px 12px;border-radius:4px}
+.badge-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+.badge{background:#eef;border-left:5px solid #003366;padding:10px;border-radius:4px}
+details{margin-bottom:15px}
+summary{font-weight:bold;cursor:pointer}
+label{display:block;margin-bottom:10px}
+input,textarea{width:100%;padding:8px;border:1px solid #ccc;border-radius:4px}
+button{background:#003366;color:white;padding:10px 20px;border:none;border-radius:4px;cursor:pointer}
+footer{text-align:center;padding:20px;font-size:.9em;color:#666}
